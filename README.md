@@ -14,9 +14,3 @@ Start the app use `php -S localhost:8000 -t public` from the root directory of t
 
 ### You need to have [composer](https://getcomposer.org/), [php](https://www.php.net/) and [lumen](https://lumen.laravel.com/docs)
 
-
-### NOTE
-
- [API Collections](https://www.getpostman.com/collections/ba55c03f06ee37ba6016).
-
- The MySQL dump is in the root directory also. 
